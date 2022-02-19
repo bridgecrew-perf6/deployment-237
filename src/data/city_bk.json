@@ -1,0 +1,278 @@
+[
+  {
+    "en_name": "Bath",
+    "id": 1
+  },
+  {
+    "en_name": "Birmingham",
+    "id": 2
+  },
+  {
+    "en_name": "Bradford",
+    "id": 3
+  },
+  {
+    "en_name": "Brighton & Hove",
+    "id": 4
+  },
+  {
+    "en_name": "Bristol",
+    "id": 5
+  },
+  {
+    "en_name": "Cambridge",
+    "id": 6
+  },
+  {
+    "en_name": "Canterbury",
+    "id": 7
+  },
+  {
+    "en_name": "Carlisle",
+    "id": 8
+  },
+  {
+    "en_name": "Chelmsford",
+    "id": 9
+  },
+  {
+    "en_name": "Chester",
+    "id": 10
+  },
+  {
+    "en_name": "Chichester",
+    "id": 11
+  },
+  {
+    "en_name": "Coventry",
+    "id": 12
+  },
+  {
+    "en_name": "Derby",
+    "id": 13
+  },
+  {
+    "en_name": "Durham",
+    "id": 14
+  },
+  {
+    "en_name": "Ely",
+    "id": 15
+  },
+  {
+    "en_name": "Exeter",
+    "id": 16
+  },
+  {
+    "en_name": "Gloucester",
+    "id": 17
+  },
+  {
+    "en_name": "Hereford",
+    "id": 18
+  },
+  {
+    "en_name": "Kingston upon Hull",
+    "id": 19
+  },
+  {
+    "en_name": "Lancaster",
+    "id": 20
+  },
+  {
+    "en_name": "Leeds",
+    "id": 21
+  },
+  {
+    "en_name": "Leicester",
+    "id": 22
+  },
+  {
+    "en_name": "Lichfield",
+    "id": 23
+  },
+  {
+    "en_name": "Lincoln",
+    "id": 24
+  },
+  {
+    "en_name": "Liverpool",
+    "id": 25
+  },
+  {
+    "en_name": "London",
+    "id": 0
+  },
+  {
+    "en_name": "Manchester",
+    "id": 26
+  },
+  {
+    "en_name": "Newcastle upon Tyne",
+    "id": 27
+  },
+  {
+    "en_name": "Norwich",
+    "id": 28
+  },
+  {
+    "en_name": "Nottingham",
+    "id": 29
+  },
+  {
+    "en_name": "Oxford",
+    "id": 30
+  },
+  {
+    "en_name": "Peterborough",
+    "id": 31
+  },
+  {
+    "en_name": "Plymouth",
+    "id": 32
+  },
+  {
+    "en_name": "Portsmouth",
+    "id": 33
+  },
+  {
+    "en_name": "Preston",
+    "id": 34
+  },
+  {
+    "en_name": "Ripon",
+    "id": 35
+  },
+  {
+    "en_name": "Salford",
+    "id": 36
+  },
+  {
+    "en_name": "Salisbury",
+    "id": 37
+  },
+  {
+    "en_name": "Sheffield",
+    "id": 38
+  },
+  {
+    "en_name": "Southampton",
+    "id": 39
+  },
+  {
+    "en_name": "St Albans",
+    "id": 40
+  },
+  {
+    "en_name": "Stoke-on-Trent",
+    "id": 41
+  },
+  {
+    "en_name": "Sunderland",
+    "id": 42
+  },
+  {
+    "en_name": "Truro",
+    "id": 43
+  },
+  {
+    "en_name": "Wakefield",
+    "id": 44
+  },
+  {
+    "en_name": "Wells",
+    "id": 45
+  },
+  {
+    "en_name": "Westminster",
+    "id": 46
+  },
+  {
+    "en_name": "Winchester",
+    "id": 47
+  },
+  {
+    "en_name": "Wolverhampton",
+    "id": 48
+  },
+  {
+    "en_name": "Worcester",
+    "id": 49
+  },
+  {
+    "en_name": "York",
+    "id": 50
+  },
+  {
+    "en_name": "Armagh",
+    "id": 51
+  },
+  {
+    "en_name": "Belfast",
+    "id": 52
+  },
+  {
+    "en_name": "Londonderry",
+    "id": 53
+  },
+  {
+    "en_name": "Lisburn",
+    "id": 54
+  },
+  {
+    "en_name": "Newry",
+    "id": 55
+  },
+  {
+    "en_name": "Aberdeen",
+    "id": 56
+  },
+  {
+    "en_name": "Dundee",
+    "id": 57
+  },
+  {
+    "en_name": "Edinburgh",
+    "id": 58
+  },
+  {
+    "en_name": "Glasgow",
+    "id": 59
+  },
+  {
+    "en_name": "Inverness",
+    "id": 60
+  },
+  {
+    "en_name": "Perth",
+    "id": 61
+  },
+  {
+    "en_name": "Stirling",
+    "id": 62
+  },
+  {
+    "en_name": "Bangor",
+    "id": 63
+  },
+  {
+    "en_name": "Cardiff",
+    "id": 64
+  },
+  {
+    "en_name": "Newport",
+    "id": 65
+  },
+  {
+    "en_name": "St. Asaph",
+    "id": 66
+  },
+  {
+    "en_name": "St. David's",
+    "id": 67
+  },
+  {
+    "en_name": "Swansea",
+    "id": 68
+  }
+]

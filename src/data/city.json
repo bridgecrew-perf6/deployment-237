@@ -1,0 +1,238 @@
+[
+  {
+    "en_name": "Alabama",
+    "id": "1"
+  },
+  {
+    "en_name": "Alaska",
+    "id": "2"
+  },
+  {
+    "en_name": "American Samoa",
+    "id": "3"
+  },
+  {
+    "en_name": "Arizona",
+    "id": "4"
+  },
+  {
+    "en_name": "Arkansas",
+    "id": "5"
+  },
+  {
+    "en_name": "California",
+    "id": "6"
+  },
+  {
+    "en_name": "Colorado",
+    "id": "7"
+  },
+  {
+    "en_name": "Connecticut",
+    "id": "8"
+  },
+  {
+    "en_name": "Delaware",
+    "id": "9"
+  },
+  {
+    "en_name": "District Of Columbia",
+    "id": "10"
+  },
+  {
+    "en_name": "Federated States Of Micronesia",
+    "id": "11"
+  },
+  {
+    "en_name": "Florida",
+    "id": "12"
+  },
+  {
+    "en_name": "Georgia",
+    "id": "13"
+  },
+  {
+    "en_name": "Guam",
+    "id": "14"
+  },
+  {
+    "en_name": "Hawaii",
+    "id": "15"
+  },
+  {
+    "en_name": "Idaho",
+    "id": "16"
+  },
+  {
+    "en_name": "Illinois",
+    "id": "17"
+  },
+  {
+    "en_name": "Indiana",
+    "id": "18"
+  },
+  {
+    "en_name": "Iowa",
+    "id": "19"
+  },
+  {
+    "en_name": "Kansas",
+    "id": "20"
+  },
+  {
+    "en_name": "Kentucky",
+    "id": "21"
+  },
+  {
+    "en_name": "Louisiana",
+    "id": "22"
+  },
+  {
+    "en_name": "Maine",
+    "id": "23"
+  },
+  {
+    "en_name": "Marshall Islands",
+    "id": "24"
+  },
+  {
+    "en_name": "Maryland",
+    "id": "25"
+  },
+  {
+    "en_name": "Massachusetts",
+    "id": "26"
+  },
+  {
+    "en_name": "Michigan",
+    "id": "27"
+  },
+  {
+    "en_name": "Minnesota",
+    "id": "28"
+  },
+  {
+    "en_name": "Mississippi",
+    "id": "29"
+  },
+  {
+    "en_name": "Missouri",
+    "id": "30"
+  },
+  {
+    "en_name": "Montana",
+    "id": "31"
+  },
+  {
+    "en_name": "Nebraska",
+    "id": "32"
+  },
+  {
+    "en_name": "Nevada",
+    "id": "33"
+  },
+  {
+    "en_name": "New Hampshire",
+    "id": "34"
+  },
+  {
+    "en_name": "New Jersey",
+    "id": "35"
+  },
+  {
+    "en_name": "New Mexico",
+    "id": "36"
+  },
+  {
+    "en_name": "New York",
+    "id": "37"
+  },
+  {
+    "en_name": "North Carolina",
+    "id": "38"
+  },
+  {
+    "en_name": "North Dakota",
+    "id": "39"
+  },
+  {
+    "en_name": "Northern Mariana Islands",
+    "id": "40"
+  },
+  {
+    "en_name": "Ohio",
+    "id": "41"
+  },
+  {
+    "en_name": "Oklahoma",
+    "id": "42"
+  },
+  {
+    "en_name": "Oregon",
+    "id": "43"
+  },
+  {
+    "en_name": "Palau",
+    "id": "44"
+  },
+  {
+    "en_name": "Pennsylvania",
+    "id": "45"
+  },
+  {
+    "en_name": "Puerto Rico",
+    "id": "46"
+  },
+  {
+    "en_name": "Rhode Island",
+    "id": "47"
+  },
+  {
+    "en_name": "South Carolina",
+    "id": "48"
+  },
+  {
+    "en_name": "South Dakota",
+    "id": "49"
+  },
+  {
+    "en_name": "Tennessee",
+    "id": "50"
+  },
+  {
+    "en_name": "Texas",
+    "id": "51"
+  },
+  {
+    "en_name": "Utah",
+    "id": "52"
+  },
+  {
+    "en_name": "Vermont",
+    "id": "53"
+  },
+  {
+    "en_name": "Virgin Islands",
+    "id": "54"
+  },
+  {
+    "en_name": "Virginia",
+    "id": "55"
+  },
+  {
+    "en_name": "Washington",
+    "id": "56"
+  },
+  {
+    "en_name": "West Virginia",
+    "id": "57"
+  },
+  {
+    "en_name": "Wisconsin",
+    "id": "58"
+  },
+  {
+    "en_name": "Wyoming",
+    "id": "59"
+  }
+]

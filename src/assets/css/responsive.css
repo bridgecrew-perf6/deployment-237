@@ -1,0 +1,1202 @@
+/* Responsive styles */
+/* // X-Small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+  .searchSection {
+    width: 100%;
+  }
+  .footer-img {
+    width: 110px;
+    margin-bottom: 10px;
+  }
+  .footer-menu {
+    flex-wrap: wrap;
+  }
+  .footer-menu-col {
+    width: 50%;
+    margin-bottom: 15px;
+  }
+  .searchsection-heading {
+    padding: 0 5px;
+  }
+  .search-input {
+    padding: 10px 5px;
+  }
+  .text-3xl {
+    font-size: 1.5rem;
+  }
+  .search-btn {
+    padding-top: 15px;
+  }
+  .events-show-btn {
+    justify-content: center;
+    margin-top: 10px;
+  }
+  .events-show-btn button {
+    width: 230px;
+  }
+  .subscription-append-btn.right-0 {
+    right: 11px;
+  }
+  .nav-menu .bg-innerBG {
+    flex-flow: row;
+  }
+  .toggle-sidebar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  /* single event page */
+  .profile-page-banner {
+    height: 68px;
+  }
+  .event-h2 {
+    font-size: 21px;
+    margin-bottom: 20px;
+    line-height: 32px;
+  }
+  .booking-details {
+    width: 100%;
+    flex-flow: column;
+    justify-content: start;
+    align-items: center;
+  }
+  .booking-details button {
+    width: 100%;
+    margin: 0;
+  }
+  .artist-share-options .share-event {
+    margin-top: 15px;
+  }
+  .event-info {
+    padding-bottom: 30px;
+  }
+  .event-info span {
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 20px;
+  }
+  .booking-price {
+    flex-grow: 1;
+  }
+  .book-now-btn {
+    flex-shrink: 0;
+    width: 100%;
+    margin-top: 10px;
+  }
+  .event-address-pricing {
+    flex-direction: column;
+  }
+  .event-address {
+    /* align-items: center; */
+    justify-content: center;
+  }
+  .artist-share-options {
+    flex-direction: column;
+  }
+  .artist-share-heading {
+    font-size: 18px;
+  }
+  .artist-share-image {
+    width: 70px;
+    height: 70px;
+    object-fit: cover;
+  }
+  .subscription-cta .cta-heading {
+    font-size: 19px;
+    margin-top: 0;
+  }
+  .subscription-cta .cta-small-heading {
+    font-size: 16px;
+    margin-bottom: 0;
+  }
+  .booking-details {
+    padding-left: 0.75rem;
+    padding-right: 0.75rem;
+  }
+  .MuiBreadcrumbs-ol {
+    font-size: 14px;
+  }
+  .home-mobile-padding {
+    padding-top: 68px;
+  }
+  .searchSection {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  .searchsection-heading .text-3xl {
+    font-size: 20px;
+    line-height: 27px;
+  }
+
+  .event-booking-poster {
+    height: 400px;
+  }
+  .bg-innerBG .event-poster {
+    height: 370px;
+  }
+
+  /* blog page */
+  .blog-card .blog-card-img {
+    height: 170px;
+  }
+  /* blog page END*/
+
+  /* blog detail page */
+  .single-blog-img-block .single-blog-img {
+    height: 210px;
+    padding: 30px 0;
+  }
+
+  .single-blog-img-block {
+    height: 190px;
+  }
+  /* blog detail page END*/
+
+  /* register page  */
+  .register-page-block {
+    height: auto;
+  }
+
+  .register-page-form .arrow-back {
+    font-size: 1.5rem;
+  }
+  /* register page END*/
+
+  /* Forget passowrd page*/
+  .forgot-password-page-block {
+    height: auto;
+  }
+  /* Forget passowrd page END*/
+
+  /* Home page event page*/
+  .mobile-events-posters .card-address {
+    min-height: auto;
+    max-height: unset;
+  }
+  .mobile-events-posters {
+    display: flex;
+  }
+  .mobile-events-posters .custom-thumb-img {
+    width: 34%;
+  }
+  .mobile-events-posters .custom-thumb-img.h-96 {
+    height: auto !important;
+  }
+  .mobile-events-posters .custom-thumb-img img {
+    height: 160px;
+    object-fit: cover;
+  }
+  .event-card .event-heading {
+    font-size: 16px;
+    height: 40px;
+  }
+  .event-card {
+    width: 63%;
+    padding: 10px;
+    border-radius: 0;
+  }
+  .event-card .h-16 {
+    height: auto !important;
+  }
+  .event-card .card-address,
+  .event-card .event-date {
+    font-size: 14px;
+  }
+  .event-card .event-date.w-12 {
+    width: auto !important;
+  }
+  .event-card .event-date {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    text-align: left;
+  }
+  .event-card.-mt-2 {
+    margin-top: 0;
+  }
+  .mobile-events-posters .event-card .card-address.pt-2 {
+    padding-top: 0 !important;
+  }
+  .show-all-btn {
+    margin-top: 40px;
+  }
+  /* Home page event page END*/
+
+  /* Event page page  */
+  .event-listing .event-price {
+    margin-bottom: 10px;
+    font-size: 15px;
+  }
+  .event-listing-card .event-listing-img {
+    height: 380px;
+  }
+  .event-listing .event-place {
+    font-size: 16px;
+  }
+  .event-listing-card .event-city {
+    height: auto;
+    font-size: 16px;
+    margin-bottom: 0;
+  }
+  .event-listing .event-city.title {
+    -webkit-line-clamp: 1;
+  }
+  .event-listing-card .img-icon {
+    margin: 0 !important;
+  }
+  .event-listing-card .event-date {
+    font-size: 16px;
+  }
+  .event-listing-card .event-price {
+    font-size: 20px;
+  }
+  .test-event-block .event-h3 {
+    font-size: 20px !important;
+  }
+  .test-event-block .event-h5 {
+    font-size: 16px !important;
+    line-height: 20px;
+    margin-top: 5px;
+  }
+  .test-event-block {
+    margin-top: 10px;
+  }
+  .test-event-block .filter-events {
+    margin-top: 10px;
+  }
+  .test-event-block {
+    flex-direction: column;
+  }
+  .test-event-block .event-input input {
+    height: 30px !important;
+  }
+  .test-event-block .react-datepicker-wrapper input {
+    height: 40px !important;
+  }
+  .test-event-block .react-datepicker-wrapper {
+    width: 100%;
+  }
+  .test-event-block .seeticket-btn-lg {
+    height: 40px !important;
+    width: 75%;
+  }
+  .event-listing.p-5 {
+    padding: 0 !important;
+  }
+  .mobile-events-posters .event-timing-date {
+    font-size: 14px;
+  }
+  .mobile-events-posters .event-date {
+    margin-right: auto;
+  }
+  .events-page-mobile {
+    flex-wrap: wrap;
+    padding: 10px 10px;
+    border-radius: 8px;
+  }
+  .events-page-mobile .event-price {
+    margin-bottom: 0;
+    font-size: 15px;
+  }
+  .event-xs-none {
+    display: none;
+  }
+  .test-event-block {
+    padding: 15px 10px;
+  }
+  .event-listing .custom-small.gap-5 {
+    grid-gap: 1rem;
+    gap: 1rem;
+  }
+  .event-listing-wrapper .bg-innerBG {
+    background-color: transparent !important;
+  }
+  .event-ticket-pricing {
+    margin-top: 10px;
+  }
+  .privacy-policy a {
+    overflow-wrap: break-word;
+  }
+  /* Event page page END*/
+
+  /* dashboard header */
+  .event-header{
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  .event-header .mobile-toggle{
+    display: flex;
+    align-items: center;
+  }
+  .event-header .mobile-toggle button{
+    margin-right: 0 !important;
+    padding: 12px 7px;
+  }
+  .event-header .mobile-toggle h6{
+    font-size: 17px;
+  }
+  .event-header .MuiSelect-root{
+    font-size: 13px;
+  }
+  /* dashboard header END*/
+
+  /* dashboard */
+  .dashboard-stats-icon{
+    width: 60px;
+    height: 60px;
+  }
+  .dashboard-stats-icon svg{
+    font-size: 45px !important;
+  }
+  .dashboard-stats-content{
+    min-height: 80px;
+  }
+  .dashboard-top-space {
+    margin-top: 20px;
+  }
+
+  /* dashboard manage menu */
+  .date-time-picker .react-datepicker-wrapper{
+    width: 100%;
+  }
+  .admin-dashboard-chart, .admin-dashboard-profile{
+    padding: 0 !important;
+  }
+  
+  /* seats page */
+  .seats-checkout{
+    height: auto;
+  }
+
+  /* search page */
+  .search-event-img{
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  .search-event-title{
+    width: 100%;
+    padding-left: 0;
+    padding-right: 0;
+    padding-bottom: 15px;
+    padding-top: 15px;
+  }
+  .search-event-heading{
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    height: 46px;
+  }
+  .search-event-btn{
+    width: 50%;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: right;
+  }
+  .search-event-date{
+    width: 100%;
+  }
+  .search-event-switch{
+    width: 50%;
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .search-event-box {
+    justify-content: start;
+    flex-wrap: wrap;
+  }
+  .search-event-list{
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .search-events{
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  .search-event-img img{
+    height: 320px;
+    width: 100%;
+  }
+  .search-event-date-block{
+    display: flex;
+    justify-content: space-between;
+  }
+  .search-results{
+    background-color: transparent;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+  }
+  .search-event-list .events-page-mobile {
+    flex-wrap: wrap;
+    margin-top: 20px;
+  }
+  .search-event-list .mobile-events-posters .custom-thumb-img img {
+    height: 130px;
+    object-fit: cover;
+  }
+  .search-event-list .event-card {
+    width: 63%;
+    padding: 10px 0 0 10px;
+    border-radius: 0;
+  }
+
+  .event-address-pricing .event-address{
+    text-align: center;
+  }
+
+  /* concerts page */
+  .event-detail-btn{
+    margin-top: 10px;
+    width: 100%;
+  }
+  .event-detail-btn a, .event-detail-btn button{
+    width: 100%;
+  }
+  .events-page-mobile .card-address .event-address{
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+  }
+  .concerts-page-wrapper .events-page-mobile{
+    padding: 10px 0px !important;
+  }
+  .concerts-page-wrapper .search-event-list .event-card{
+    padding: 0 0 0 10px;
+  }
+
+  /* single concerts page */
+  .mobile-hr{
+    border-top-width: 1px;
+    margin-top: 8px;
+  }
+  .single-concerts-booking{
+    flex-direction: column;
+    justify-content: center;
+  }
+  .single-concerts-booking button{
+    width: 100%;
+    margin: 0;
+  }
+  .single-concerts-pricing{
+    text-align: center;
+  }
+  .single-concert-description{
+    font-size: 15px;
+    text-align: center;
+  }
+  .single-concert-address{
+    font-size: 15px;
+    line-height: 23px;
+  }
+  .single-concerts-filter{
+    flex-direction: column;
+  }
+  .event-listing-wrapper .mobile-events-posters img{
+    height: 130px;
+  }
+
+  /* menu */
+  .toggle-sidebar button{
+    width: auto;
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+ 
+  /* dashboard stats */
+  .stats-heading{
+    width: 70%;
+  }
+
+  .qr-reader-block{
+    width: 100% !important;
+    height: 100% !important;
+  }
+
+  .dashboard-body {
+    margin-left: 0;
+  }
+
+  .table-spacing{
+    margin-top: 5px;
+  }
+}
+
+/* // Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+  .searchSection {
+    width: 100%;
+  }
+  .footer-img {
+    width: 130px;
+    margin-bottom: 0;
+  }
+  .footer-menu-col {
+    width: 50%;
+    margin-bottom: 15px;
+  }
+  .footer-menu {
+    flex-wrap: wrap;
+  }
+  .searchsection-heading {
+    padding: 0 15px;
+  }
+  .text-3xl {
+    font-size: 1.5rem;
+  }
+  .card-address {
+    min-height: 57px;
+    max-height: 57px;
+  }
+  .search-btn {
+    padding-top: 15px;
+  }
+  .toggle-sidebar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  /* single event page */
+  .profile-page-banner {
+    height: 68px;
+  }
+  .event-h2 {
+    font-size: 26px;
+    margin-bottom: 20px;
+    line-height: 34px;
+  }
+  .booking-details {
+    width: 100%;
+  }
+  .booking-details button {
+    width: 100%;
+    margin: 20px 0;
+  }
+  .artist-share-options .share-event {
+    /* margin-top: 20px; */
+  }
+  .event-info {
+    padding-bottom: 30px;
+  }
+  .event-info span {
+    font-size: 17px;
+  }
+  .booking-price {
+    flex-grow: 1;
+  }
+  .book-now-btn {
+    flex-shrink: 0;
+  }
+  .artist-share-image {
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+  }
+  .subscription-cta {
+    margin-bottom: 20px !important;
+  }
+  .subscription-cta .cta-heading {
+    font-size: 20px;
+  }
+  .subscription-cta .cta-small-heading {
+    font-size: 17px;
+    margin-bottom: 0;
+  }
+  .booking-details {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .event-address {
+    margin: 10px 0;
+  }
+  .MuiBreadcrumbs-ol {
+    font-size: 16px;
+  }
+  .home-mobile-padding {
+    padding-top: 68px;
+  }
+  .searchSection {
+    padding-left: 5px;
+    padding-right: 5px;
+  }
+  .event-booking-poster {
+    height: 650px;
+  }
+  .bg-innerBG .event-poster {
+    height: 600px;
+  }
+  /* blog page */
+  .blog-card .blog-card-img {
+    height: 320px;
+  }
+  /* blog page END*/
+
+  /* blog detail page */
+  .single-blog-img-block .single-blog-img {
+    height: 285px;
+  }
+
+  .single-blog-img-block {
+    height: 370px;
+  }
+  /* blog detail page END*/
+
+  /* register page  */
+  .register-page-block {
+    height: auto;
+  }
+
+  .register-page-form .arrow-back {
+    font-size: 2rem;
+  }
+  /* register page END*/
+
+  /* Forget passowrd page*/
+  .forgot-password-page-block {
+    height: auto;
+  }
+  /* Forget passowrd page END*/
+
+  /* Home page event page*/
+  .custom-small {
+    grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+  }
+  .custom-small-bg .custom-thumb-img {
+    /* height: 12rem !important;
+        background-position: top; */
+  }
+  .custom-sm-block {
+    display: block;
+  }
+  .show-all-btn {
+    margin-top: 40px;
+  }
+  /* Home page event page END*/
+
+  /* Event page page  */
+  .event-listing .event-price {
+    margin-bottom: 10px;
+    font-size: 17px;
+  }
+  .event-listing-card .event-listing-img {
+    height: 380px;
+  }
+  .event-listing .event-place {
+    font-size: 16px;
+  }
+  .event-listing-card .event-city {
+    height: auto;
+    font-size: 16px;
+    margin-bottom: 0;
+  }
+  .event-listing .event-city.title {
+    -webkit-line-clamp: 1;
+  }
+  .event-listing-card .img-icon {
+    margin: 0 !important;
+  }
+  .event-listing-card .event-date {
+    font-size: 16px;
+  }
+  .event-listing-card .event-price {
+    font-size: 20px;
+  }
+  .test-event-block .event-h3 {
+    font-size: 22px !important;
+  }
+  .test-event-block .event-h5 {
+    font-size: 17px !important;
+  }
+  .test-event-block {
+    margin-top: 30px;
+  }
+  .test-event-block .filter-events {
+    margin-top: 0px;
+  }
+  .test-event-block {
+    flex-direction: column;
+  }
+  .test-event-block .event-input input {
+    height: 30px !important;
+  }
+  .test-event-block .react-datepicker-wrapper input {
+    height: 40px !important;
+  }
+  .test-event-block .react-datepicker-wrapper {
+    width: 100%;
+  }
+  .test-event-block .seeticket-btn-lg {
+    height: 40px !important;
+    width: 35%;
+  }
+  .event-ticket-btn button {
+    width: 100%;
+  }
+  /* Event page page END*/
+
+  /* dashboard header */
+  .event-header{
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  .event-header .mobile-toggle{
+    display: flex;
+    align-items: center;
+  }
+  .event-header .mobile-toggle button{
+    margin-right: 0 !important;
+  }
+  /* dashboard header END*/
+
+  /* dashboard */
+  .dashboard-stats-icon{
+    width: 60px;
+    height: 60px;
+  }
+  .dashboard-stats-icon svg{
+    font-size: 45px !important;
+  }
+  .dashboard-stats-content{
+    min-height: 80px;
+  }
+  .dashboard-stats{
+    width: 50% !important;
+    padding: 8px;
+  }
+  .dashboard-top-space {
+    margin-top: 20px;
+  }
+
+  /* dashboard manage menu */
+  .date-time-picker .react-datepicker-wrapper{
+    width: 100%;
+  }
+  
+  /* seats page */
+  .seat-allotment{
+    flex-direction: row !important;
+  }
+  .seats-checkout{
+    height: auto;
+  }
+
+  /* search page */
+  .search-event-img{
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  .search-event-title{
+    width: 100%;
+    padding-left: 0;
+    padding-right: 0;
+    padding-bottom: 15px;
+    padding-top: 15px;
+  }
+  .search-event-heading{
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    height: 46px;
+  }
+  .search-event-btn{
+    width: 50%;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: right;
+  }
+  .search-event-date{
+    width: 100%;
+  }
+  .search-event-switch{
+    width: 50%;
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .search-event-box {
+    justify-content: start;
+    flex-wrap: wrap;
+  }
+  .search-event-list{
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .search-events{
+    display: block;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 50%;
+    margin-bottom: 20px;
+  }
+  .search-event-img img{
+    height: 320px;
+    width: 100%;
+  }
+  .search-event-date-block{
+    display: flex;
+    justify-content: space-between;
+  }
+  .search-event-bg:hover{
+    background-color: transparent;
+  }
+  .all-events-filter{
+    margin-bottom: 15px;
+  }
+
+  /* single concerts page */
+  .mobile-hr{
+    border-top-width: 1px;
+    margin-top: 8px;
+  }
+
+  /* offer page */
+  .offers-block{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 100%;
+  }
+  .offers-block .search-event-switch, .offers-block .search-event-btn{
+    width: 100%;
+    text-align: left;
+  }
+
+   /* menu */
+   .toggle-sidebar button{
+    width: auto;
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  /* dashboard stats */
+  .stats-heading{
+    width: 70%;
+  }
+
+  .dashboard-body{
+    margin-left: 0;
+  }
+
+  .table-spacing{
+    padding: 0 8px;
+  }
+
+  .table-spacing{
+    margin-top: 5px;
+  }
+}
+
+/* // Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+  .searchSection {
+    width: 100%;
+  }
+  .footer-img {
+    width: 160px;
+    margin-bottom: 10px;
+  }
+  .search-btn {
+    padding-top: 20px;
+  }
+  .searchsection-heading {
+    padding: 0 15px;
+  }
+  .toggle-sidebar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  /* single event page */
+  .profile-page-banner {
+    height: 90px;
+  }
+  .event-h2 {
+    font-size: 26px;
+    margin-bottom: 20px;
+    line-height: 34px;
+  }
+  .booking-details {
+    width: 100%;
+  }
+  .artist-share-options .share-event {
+    margin-top: 20px;
+  }
+  .event-address {
+    margin-top: 7px;
+  }
+  .subscription-cta .cta-heading {
+    font-size: 22px;
+  }
+  .subscription-cta .cta-small-heading {
+    font-size: 18px;
+    margin-bottom: 0;
+  }
+  .event-booking-poster {
+    height: 495px;
+  }
+  .bg-innerBG .event-poster {
+    height: 400px;
+  }
+  /* blog page */
+  .blog-card .blog-card-img {
+    height: 230px;
+  }
+  /* blog page END*/
+
+  /* blog detail page */
+  .single-blog-img-block .single-blog-img {
+    height: 375px;
+  }
+
+  .single-blog-img-block {
+    height: 490px;
+  }
+  /* blog detail page END*/
+
+  /* register page  */
+  .register-page-block {
+    height: 52rem;
+  }
+  /* register page END*/
+
+  /* Forget passowrd page*/
+  .forgot-password-page-block {
+    height: 30rem;
+  }
+  /* Forget passowrd page END*/
+
+  .show-all-btn {
+    margin-top: 40px;
+  }
+
+  /* Event page page  */
+  .event-listing .event-price {
+    margin-bottom: 10px;
+  }
+  .event-listing-card .event-listing-img {
+    height: 340px;
+  }
+  .event-listing .event-place {
+    font-size: 16px;
+  }
+  .event-listing-card .event-city {
+    height: auto;
+  }
+  .event-listing .event-city.title {
+    -webkit-line-clamp: 1;
+  }
+  .event-ticket-btn button {
+    width: 100%;
+  }
+  /* Event page page END*/
+
+  /* dashboard header */
+  .event-header{
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  .dashboard-top-space {
+    margin-top: 10px;
+  }
+  
+  /* dashboard */
+  .dashboard-stats-icon{
+    width: 60px;
+    height: 60px;
+  }
+  .dashboard-stats-icon svg{
+    font-size: 45px !important;
+  }
+  .dashboard-stats-content{
+    min-height: 80px;
+  }
+
+  /* search page */
+  .search-event-img{
+    width: 20%;
+  }
+  .search-event-title{
+    width: 30%;
+  }
+  .search-event-btn{
+    width: 22%;
+  }
+  .search-event-date, .search-event-switch{
+    width: 11%;
+  }
+  .search-event-box {
+    justify-content: space-between;
+  }
+  .search-event-img img{
+    height: 170px;
+  }
+
+  /* offer page */
+  .offers-block{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    width: 25%;
+  }
+  .offers-block .search-event-switch, .offers-block .search-event-btn{
+    width: 80%;
+    text-align: center;
+  }
+  .offer-event-list .search-event-title {
+    width: 35%;
+  }
+  
+  /* menu */
+  .toggle-sidebar button{
+    width: auto;
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .table-spacing{
+    margin-top: 0;
+  }
+}
+
+/* // Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  .searchSection {
+    width: 100%;
+  }
+  /* single event page */
+  .profile-page-banner {
+    height: 150px !important;
+  }
+  .event-booking-poster {
+    height: 690px;
+  }
+  .bg-innerBG .event-poster {
+    height: 580px;
+  }
+  /* blog page */
+  .blog-card .blog-card-img {
+    height: 180px;
+  }
+  /* blog page END*/
+
+  /* blog detail page */
+  .single-blog-img-block .single-blog-img {
+    height: 450px;
+  }
+
+  .single-blog-img-block {
+    height: 540px;
+  }
+  /* blog detail page END*/
+
+  /* register page  */
+  .register-page-block {
+    height: 49rem;
+  }
+  /* register page END*/
+
+  /* Event page page  */
+  .event-listing .event-price {
+    margin-bottom: 10px;
+    line-height: 17px;
+  }
+  .event-listing-card .event-listing-img {
+    height: 430px;
+  }
+  .event-ticket-btn .lg\:w-44 {
+    width: 7rem !important;
+    font-size: 15px;
+  }
+  .event-ticket-btn .event-price {
+    font-size: 14px;
+  }
+  .event-listing-card .event-city {
+    height: 48px;
+  }
+
+  /* Event page page END*/
+  
+  /* dashboard */
+  .dashboard-stats-icon{
+    width: 60px;
+    height: 60px;
+  }
+  .dashboard-stats-icon svg{
+    font-size: 45px !important;
+  }
+  .dashboard-stats-content{
+    min-height: 80px;
+    /* padding-top: 30px; */
+  }
+  /* event listing */
+  .search-event-img{
+    padding-bottom: 0;
+  }
+
+  /* side bar toggle */
+  .toggle-sidebar button{
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .stats-heading {
+    width: 100%;
+    height: auto;
+}
+}
+
+/* // Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1400.98px) {
+  /* blog page */
+  .blog-card .blog-card-img {
+    height: 190px;
+  }
+  /* blog page END*/
+}
+
+/* // For 2k Monitors, (more than 1401 px) */
+@media (min-width: 1401px) and (max-width: 1599.98px) {
+  .home-bg {
+    /* height: 60vh; */
+  }
+  /* blog page */
+  .blog-card .blog-card-img {
+    height: 170px;
+  }
+  /* blog page END*/
+
+  /* blog detail page */
+  .single-blog-img-block .single-blog-img {
+    height: 630px;
+  }
+
+  .single-blog-img-block {
+    height: 730px;
+  }
+  /* blog detail page END*/
+}
+
+@media (min-width: 1600px) and (max-width: 2559.98px) {
+  /* blog page */
+  .blog-card .blog-card-img {
+    height: 240px;
+  }
+  /* blog page END*/
+
+  /* blog detail page */
+  .single-blog-img-block .single-blog-img {
+    height: 715px;
+  }
+
+  .single-blog-img-block {
+    height: 800px;
+  }
+  /* blog detail page END*/
+}
+
+@media (min-width: 2560px) {
+}
